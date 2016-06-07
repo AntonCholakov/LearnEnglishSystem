@@ -1,0 +1,19 @@
+html, body, div, p, img, form, input, a, header, footer, nav, main {
+	margin: 0;
+	padding: 0;
+	font-family: Trebuchet, cursive;
+}
+
+img {
+	border: none;
+}
+
+.image-word {
+	width: 200px;
+	height: 200px;
+	margin-left: 12px;
+}
+
+.word-picture {
+	max-width: 95%;
+}
